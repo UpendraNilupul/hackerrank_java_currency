@@ -23,5 +23,6 @@ public class Main {
         System.out.println("India: " + china );
         System.out.println("China: " + france );
         System.out.println("France: " + india);
+        
     }
 }
